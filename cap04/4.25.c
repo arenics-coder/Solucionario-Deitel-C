@@ -12,7 +12,7 @@ int main()
 			posicao *= 10;	
 		}
 
-		printf("decimal:%3d\tbinario:%9d\toctal:%o\thexadecimal:%2x\n", cont, binario, cont, cont);
+		printf("decimal:%3d\tbinario:%10d\toctal:%3o\thexadecimal:%2x\n", cont, binario, cont, cont);
 		binario = 0;
 		posicao = 1;
 	}
