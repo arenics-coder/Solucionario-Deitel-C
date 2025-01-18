@@ -55,7 +55,7 @@ int main()
 			numeroImprimir -= 1;
 		 }
 
-		 numeroImprimir--;
+		 
 		 printf("  ");
 	  }
 	  numero++;
